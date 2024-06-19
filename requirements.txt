@@ -1,0 +1,12 @@
+langchain-anthropic 
+langchain_core
+langchain_community
+langchain
+streamlit
+langchain-openai
+langchain-chroma
+beautifulsoup4
+pypdf
+langchain_huggingface
+langchain_cohere
+st-pages

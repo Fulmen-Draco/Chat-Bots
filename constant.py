@@ -1,0 +1,4 @@
+smith_key = "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"
+anthropic_key ="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"
+inference_api_key = "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"
+cohere_key = "JSDhKPDPZUqqI9ynIwKAwAvtb8M9ahBPKcLWJ1mU"
